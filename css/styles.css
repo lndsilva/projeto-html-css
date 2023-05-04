@@ -1,0 +1,25 @@
+body{
+    border-style: solid;
+    border-width: 2px;
+}
+
+h1{
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+p{
+    color: red;
+    border-style: solid;
+    border-width: 2px;
+}
+em{
+    border-style: solid;
+    border-width: 2px;
+}
+img{
+    border-style: solid;
+    border-width: 2px;
+}
+
